@@ -7,7 +7,7 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: trivial-go-web-app
+      app: trivial-go-web-app3
   template:
     metadata:
       labels:
